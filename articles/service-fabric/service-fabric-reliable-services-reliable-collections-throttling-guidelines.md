@@ -2,7 +2,7 @@
 title: Throttling Guidelines for Reliable Collections
 description: Description of how throttling manifests when using Service Fabric Reliable Collecitons and guidelines to prevent scenarios which result in throttling in an Azure Service Fabric Replication
 ms.topic: concept-article
-ms.author: curleyfries
+ms.author: justincurley
 author: curleyfries
 ms.service: azure-service-fabric
 services: service-fabric
